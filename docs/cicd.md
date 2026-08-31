@@ -78,7 +78,7 @@ cat > /tmp/github-trust-policy.json <<TRUST
       },
       "StringLike": {
         "token.actions.githubusercontent.com:sub":
-          "repo:SmittyStuff/aws-key-management:ref:refs/heads/main"
+          "repo:itnet-steven-smith/aws-key-management:ref:refs/heads/main"
       }
     }
   }]
@@ -118,7 +118,7 @@ cat > /tmp/github-trust-plan.json <<TRUST
       "StringEquals": { "token.actions.githubusercontent.com:aud": "sts.amazonaws.com" },
       "StringLike": {
         "token.actions.githubusercontent.com:sub":
-          "repo:SmittyStuff/aws-key-management:pull_request"
+          "repo:itnet-steven-smith/aws-key-management:pull_request"
       }
     }
   }]
@@ -565,7 +565,7 @@ cat > .github/CODEOWNERS <<'OWNERS'
 OWNERS
 
 # Branch protection
-gh api -X PUT repos/SmittyStuff/aws-key-management/branches/main/protection \
+gh api -X PUT repos/itnet-steven-smith/aws-key-management/branches/main/protection \
   --input - <<'JSON'
 {
   "required_status_checks": {
