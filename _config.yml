@@ -7,7 +7,7 @@ title: AWS KMS & CloudHSM Key Management Guide
 description: >-
   A step-by-step, command-level guide to planning, deploying, automating, and governing cryptographic key management on AWS with KMS, CloudHSM, custom key stores, and external key stores — using the Console, AWS CLI, Terraform, CloudFormation, the Python SDK, and CI/CD.
 
-url: "https://itnet-steven-smith.github.io"
+url: "https://steven-smith-itnet.github.io"
 baseurl: "/aws-kms-cloudhsm-key-management-guide"
 
 theme: just-the-docs
@@ -26,7 +26,7 @@ defaults:
 # ---- Navigation & layout --------------------------------------------------
 aux_links:
   "View on GitHub":
-    - "https://github.com/itnet-steven-smith/aws-kms-cloudhsm-key-management-guide"
+    - "https://github.com/steven-smith-itnet/aws-kms-cloudhsm-key-management-guide"
 aux_links_new_tab: true
 
 nav_sort: case_insensitive
@@ -71,7 +71,7 @@ callouts:
 
 # ---- Footer ---------------------------------------------------------------
 footer_content: >-
-  Prepared by itnet-steven-smith. This is an independent technical walkthrough based on
+  Prepared by steven-smith-itnet. This is an independent technical walkthrough based on
   publicly available vendor documentation; it is not affiliated with or endorsed
   by any cloud provider. Cloud APIs and console layouts change frequently —
   verify every step against current official documentation before use in
@@ -81,7 +81,7 @@ last_edit_timestamp: true
 last_edit_time_format: "%b %e %Y at %I:%M %p"
 gh_edit_link: true
 gh_edit_link_text: "Edit this page on GitHub"
-gh_edit_repository: "https://github.com/itnet-steven-smith/aws-kms-cloudhsm-key-management-guide"
+gh_edit_repository: "https://github.com/steven-smith-itnet/aws-kms-cloudhsm-key-management-guide"
 gh_edit_branch: "main"
 gh_edit_view_mode: "tree"
 

@@ -111,14 +111,14 @@ frequently, and this guide is a walkthrough, not an authority.
 
 | Cloud | Guide |
 |:--|:--|
-| Azure | [Azure Key Vault &amp; Managed HSM Key Management Guide](https://itnet-steven-smith.github.io/azure-key-vault-managed-hsm-key-management-guide/) |
-| Google Cloud | [Google Cloud KMS &amp; Cloud HSM Key Management Guide](https://itnet-steven-smith.github.io/gcp-cloud-kms-hsm-key-management-guide/) |
+| Azure | [Azure Key Vault &amp; Managed HSM Key Management Guide](https://steven-smith-itnet.github.io/azure-key-vault-managed-hsm-key-management-guide/) |
+| Google Cloud | [Google Cloud KMS &amp; Cloud HSM Key Management Guide](https://steven-smith-itnet.github.io/gcp-cloud-kms-hsm-key-management-guide/) |
 
 ---
 
 ## About this guide
 
-Prepared by [itnet-steven-smith](https://github.com/itnet-steven-smith) as an independent
+Prepared by [steven-smith-itnet](https://github.com/steven-smith-itnet) as an independent
 technical walkthrough. It is not affiliated with, endorsed by, or reviewed by
 Amazon Web Services.
 
@@ -126,4 +126,4 @@ Commands, API shapes, console navigation, and pricing reflect publicly documente
 behavior at the time of writing. **Verify everything against current official
 documentation before use in production.**
 
-[View this guide on GitHub](https://github.com/itnet-steven-smith/aws-kms-cloudhsm-key-management-guide){: .btn }
+[View this guide on GitHub](https://github.com/steven-smith-itnet/aws-kms-cloudhsm-key-management-guide){: .btn }

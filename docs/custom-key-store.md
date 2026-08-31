@@ -400,7 +400,7 @@ if [ "$STATE" != "CONNECTED" ]; then
     --message "ConnectionState=$STATE ConnectionErrorCode=$CODE
 
 Every KMS key in this store is currently unusable. Runbook:
-https://itnet-steven-smith.github.io/aws-kms-cloudhsm-key-management-guide/docs/verification/"
+https://steven-smith-itnet.github.io/aws-kms-cloudhsm-key-management-guide/docs/verification/"
   exit 2
 fi
 echo "OK: $CKS_ID CONNECTED"

@@ -4,7 +4,7 @@ A sequential, command-level guide to planning, deploying, automating, and
 governing cryptographic key management on AWS — from an empty account through to
 a governed, monitored, HSM-backed production service.
 
-**📖 Read the guide: <https://itnet-steven-smith.github.io/aws-kms-cloudhsm-key-management-guide/>**
+**📖 Read the guide: <https://steven-smith-itnet.github.io/aws-kms-cloudhsm-key-management-guide/>**
 
 ---
 
@@ -43,8 +43,8 @@ This is one of three parallel guides sharing the same structure, so the same
 concept can be compared across providers:
 
 - **AWS KMS &amp; CloudHSM** — this repository
-- [Azure Key Vault &amp; Managed HSM](https://github.com/itnet-steven-smith/azure-key-vault-managed-hsm-key-management-guide)
-- [Google Cloud KMS &amp; Cloud HSM](https://github.com/itnet-steven-smith/gcp-cloud-kms-hsm-key-management-guide)
+- [Azure Key Vault &amp; Managed HSM](https://github.com/steven-smith-itnet/azure-key-vault-managed-hsm-key-management-guide)
+- [Google Cloud KMS &amp; Cloud HSM](https://github.com/steven-smith-itnet/gcp-cloud-kms-hsm-key-management-guide)
 
 ## Building locally
 
